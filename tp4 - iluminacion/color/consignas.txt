@@ -1,0 +1,4 @@
+Para este práctico no hay consignas explícitas.
+Puede ver el mecanismo para leer un pixel del color-buffer (se usa para saber sobre que objeto se pico).
+Note las sutiles diferencias y afterimages cuando está muy oscuro, (las células cilíndricas del ojo adquieren mayor importancia).
+Analice la linearidad: la diferencia percibida/producida en poca meda o mucha luminosidad. Puede alterar el gama del monitor y probar.

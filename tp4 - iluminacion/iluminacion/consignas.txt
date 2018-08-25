@@ -1,0 +1,7 @@
+Probar con distintos exponentes de brillo.
+
+Impedir la rotacion, mostrar el disco y llevar la luz a la posicion en que refleja mucho (se ve blanco). Pruebe cambiando a glLightModeli(GL_LIGHT_MODEL_LOCAL_VIEWER,1); y vea la diferencia.
+
+Poner blancas todas las componentes de material y cambiar la luz de modo que se distingan sus componentes.
+
+Liberar el cambio de los materiales y ver el efecto combinado de luz de color y material de color.

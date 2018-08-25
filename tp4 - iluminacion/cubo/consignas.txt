@@ -1,0 +1,3 @@
+Es un ejemplo para mostrar el cubo de color.
+Pueden habilitar la transparecia y ver el efecto.
+Pueden habilitar el sombreado facetado y ver el efecto.

@@ -1,0 +1,4 @@
+Es un practico de ejemplo.
+Los conos vistos desde arriba reproducen el diagrama de Voronoi, que estudiaremos mas adelante, pero son las regiones mas cercanas a cada punto.
+Vean el efecto del cambio de lus posicional a direccional (sobretodo lo que pasa si mueven la luz direccional arriba del 0,0)
+Al draguear: shift: Cambia el radio; alt: Mueve la luz.
